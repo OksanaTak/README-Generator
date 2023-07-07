@@ -48,7 +48,7 @@ ${data.installation}
 ${data.usage}
 
 ### Credits
-${data.credits}
+${data.condributing}
 
 ### License
 ${renderLicenseSection(data.license)}
@@ -62,7 +62,7 @@ ${data.contact}
 
 ### GitHub
 ${data.github}
-
+`
 ;
 }
 
