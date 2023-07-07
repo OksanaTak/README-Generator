@@ -1,4 +1,4 @@
-# RG
+# README-Generator
 
 ## Table Of contents
 - [Description](#description)
@@ -12,13 +12,13 @@
 
 
 ### Description
-RG
+README Generator Code
 
 ### Installation
 npmi
 
 ### Usage
-open source
+open sorce
 
 ### Credits
 undefined
@@ -26,7 +26,7 @@ undefined
 ### License
 #### License Badge
   
-  ![GitHub license](https://img.shields.io/badge/license-APACHE-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   #### License Information
   [License Info](https://choosealicense.com/licenses/)
@@ -36,7 +36,7 @@ undefined
 manual
 
 ### Contact
-undefined
+Feel free to reach me at oksana.tatsyak@gmail.com for any questions regarding this project.
 
 ### GitHub
-OKgithub
+[Github Profile](https://github.com/OksanaTak 

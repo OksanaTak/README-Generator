@@ -58,10 +58,10 @@ ${renderLicenseSection(data.license)}
 ${data.tests}
 
 ### Contact
-${data.contact}
+Feel free to reach me at ${data.questions} for any questions regarding this project.
 
 ### GitHub
-${data.github}
+[Github Profile](https://github.com/${data.github} 
 `
 ;
 }
