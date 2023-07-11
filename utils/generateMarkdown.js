@@ -61,7 +61,7 @@ ${data.tests}
 Feel free to reach me at ${data.questions} for any questions regarding this project.
 
 ### GitHub
-[Github Profile](https://github.com/${data.github} 
+[Github Profile](https://github.com/${data.github}) 
 `
 ;
 }
