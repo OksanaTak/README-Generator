@@ -48,7 +48,7 @@ ${data.installation}
 ${data.usage}
 
 ### Credits
-${data.condributing}
+${data.contributing}
 
 ### License
 ${renderLicenseSection(data.license)}

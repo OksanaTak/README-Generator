@@ -12,16 +12,16 @@
 
 
 ### Description
-README Generator Code
+node.js CLI app inquire package to generate markdown file 
 
 ### Installation
-npmi
+npm i 
 
 ### Usage
-open sorce
+open source
 
 ### Credits
-undefined
+Oksana Tatsyak
 
 ### License
 #### License Badge
@@ -39,4 +39,4 @@ manual
 Feel free to reach me at oksana.tatsyak@gmail.com for any questions regarding this project.
 
 ### GitHub
-[Github Profile](https://github.com/OksanaTak 
+[Github Profile](https://github.com/OksanaTak) 
