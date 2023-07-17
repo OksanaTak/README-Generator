@@ -1,4 +1,4 @@
-# README-Generator
+# README-Gererator
 
 ## Table Of contents
 - [Description](#description)
@@ -12,13 +12,13 @@
 
 
 ### Description
-node.js CLI app inquire package to generate markdown file 
+A code to generate README
 
 ### Installation
-npm i 
+npmi
 
 ### Usage
-open source
+public
 
 ### Credits
 Oksana Tatsyak
